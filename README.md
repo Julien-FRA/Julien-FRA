@@ -1,6 +1,6 @@
 ## Hi👋, this is Julien
 
-I'm 25 years old, based in Paris. I'm looking for a job as a Javascript developer 🔭.
+I'm 25 years old, based in Paris. I'm looking for a job as a full-stack developer 🔭.
 
 <img align="center" width="25" height="25" src="https://img.icons8.com/color/25/internet--v1.png" alt="internet--v1"/> My website: https://julienfra-portfolio.vercel.app/.
 
