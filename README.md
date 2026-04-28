@@ -1,27 +1,39 @@
-## Hi👋, this is Julien
+## 👋 Hi, I'm Julien  
 
-I'm 25 years old, based in Paris.
+<p>
+  🎂 25 years old <br/>
+  📍 Based in Paris, France  
+</p>
 
-<img align="center" width="25" height="25" src="https://img.icons8.com/color/25/internet--v1.png" alt="internet--v1"/> My website: https://julienfra-portfolio.vercel.app/.
+---
 
-<img align="center" width="25" height="30" src="https://img.icons8.com/fluency/48/online-coding.png" alt="online-coding"/> Leetcode: https://leetcode.com/u/julien-fra/
+### 🌐 Links  
 
-💬 Contact me at julien.fra3@gmail.com 
+<p>
+  <img src="https://img.icons8.com/color/20/internet--v1.png"/> 
+  <b>Website:</b>  
+  <a href="https://julienfra-portfolio.vercel.app/">julienfra-portfolio.vercel.app</a>
+</p>
 
-### What I use
+<p>
+  <img src="https://img.icons8.com/fluency/20/online-coding.png"/> 
+  <b>LeetCode:</b>  
+  <a href="https://leetcode.com/u/julien-fra/">julien-fra</a>
+</p>
 
-<div align="left">
-  <img width="25" height="25" src="https://cdn.svgporn.com/logos/java.svg" alt="java"/>
-  
-  <img width="25" height="25" src="https://img.icons8.com/color/25/react-native.png" alt="react-native"/>
+<p>
+  💬 <b>Contact:</b> julien.fra3@gmail.com
+</p>
 
-  <img width="25" height="25" src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular"/>
+---
 
-  <img width="25" height="25" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
+### 🛠️ Tech Stack  
 
-  <img width="25" height="25" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
-
-  <img width="25" height="25" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-
-</div>
-
+<p align="left">
+  <img src="https://cdn.svgporn.com/logos/java.svg" height="30"/>
+  <img src="https://img.icons8.com/color/30/react-native.png"/>
+  <img src="https://cdn.svgporn.com/logos/angular-icon.svg" height="30"/>
+  <img src="https://img.icons8.com/fluency/30/nextjs.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png"/>
+  <img src="https://img.icons8.com/fluency/30/node-js.png"/>
+</p>
